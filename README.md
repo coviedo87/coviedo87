@@ -19,8 +19,7 @@ I'm currently focused on improving my skills in Web Development
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/coviedo21)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
+- LinkedIn: [🔗](https://www.linkedin.com/in/coviedo21)
 
 Feel free to connect and let's chat about the weather! 😊
 
@@ -30,6 +29,6 @@ I'm open to collaborating on interesting projects. If you have something cool in
 
 ## 💼 Check Out My Work
 
-- [Portfolio Website](https://your-portfolio-website.com)
+- [My Portfolio 😎](https://your-portfolio-website.com)
 
 Thank you for visiting my profile! ✨
