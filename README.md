@@ -10,10 +10,10 @@ I'm a passionate Software Developer based in NYC. 👨‍💻 I enjoy coding web
 - **Web Development:** HTML, CSS, JavaScript
 - **Database:** SQL, MongoDB
 - **Version Control:** Git
-- **Tools:** VS Code, GitHub
+- **Tools:** VS Code, GitHub, GitLab
 - **Stacks:** MEAN, MERN
 
-## 🌱 Currently Learning Advance web design
+## 🌱 Currently Learning advanced web design
 
 I'm currently focused on improving my skills in Web Development
 
