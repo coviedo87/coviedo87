@@ -2,7 +2,7 @@
 
 
 
-I'm a passionate Software Developer based in NYC. 👨‍💻 I enjoy coding web applications and am constantly exploring new technologies to enhance my skills.
+I'm a passionate Software Developer based in NYC. 👨‍💻 I enjoy coding web applications and continually explore new technologies to enhance my skills.
 
 ## 🚀 Skills
 
@@ -21,7 +21,7 @@ I'm currently focused on improving my skills in Web Development
 
 - LinkedIn: [🔗](https://www.linkedin.com/in/coviedo21)
 
-Feel free to connect and let's chat about the weather! 😊
+Feel free to connect, and let's chat about the weather! 😊
 
 ## 🤝 Open for Collaboration
 
@@ -29,6 +29,6 @@ I'm open to collaborating on interesting projects. If you have something cool in
 
 ## 💼 Check Out My Work
 
-- [My Portfolio 😎](https://your-portfolio-website.com)
+- My Portfolio 😎:[🔗](https://portfolio-co.netlify.app/)
 
 Thank you for visiting my profile! ✨
